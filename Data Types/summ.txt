@@ -1,10 +1,10 @@
 String, bool, int, double, num
 
-List 
+List 대괄호
 var list = [1,2,3, if(bbb) 5, for(var i in list2) 'From List One $i'];
 
-Map 
+Map 중괄호와 콜론 :
 var map = {1:2, 2:4, 3:6,};
 
-Set 
+Set 중괄호
 var set = {1,2,3,4,4,4,4,4,}; 
