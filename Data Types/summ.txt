@@ -1,0 +1,10 @@
+String, bool, int, double, num
+
+List 
+var list = [1,2,3, if(bbb) 5, for(var i in list2) 'From List One $i'];
+
+Map 
+var map = {1:2, 2:4, 3:6,};
+
+Set 
+var set = {1,2,3,4,4,4,4,4,}; 
