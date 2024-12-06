@@ -16,4 +16,12 @@ void main(){
   d = null;
   print(d?.isEmpty); //output: null
   // ?. 으로 null이 아닐시에 그 데이터타입으로 부를 수 있는 함수들을 부들 수 있다.
+
+  final /*name*/ n;
+  n = 'hello';
+  //한번 지정하면 바꿀 수 없음.
+
+  const pi = 3.14;
+  //compiletime 에 값이 존재해야하는 상수. 값을 바꿀 수 없음.
+
 }
