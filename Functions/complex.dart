@@ -1,3 +1,6 @@
+typedef listOfInts = List<int>;
+//alias for complex datatypes
+
 void main() {
   String? ss = null;
 
